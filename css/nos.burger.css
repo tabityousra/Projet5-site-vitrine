@@ -1,0 +1,31 @@
+.container{
+    background-color: black;
+}
+#para{
+    display: flex;
+    flex-direction: row;
+    background-color: grey;
+    color: white;
+    justify-content: space-around;
+    font-size: 2rem;
+
+}
+.PARTIE{
+    color: white;
+    text-align: center;
+}
+#prix{
+    color: rgb(252, 151, 19);
+    font-size: 1.5rem;
+}
+.row{
+    border:grey solid ;
+    margin-top: 50px;
+}
+.PR{
+    margin-top: 55px;
+
+}
+.pic{
+    color: white;
+}

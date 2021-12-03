@@ -4,34 +4,61 @@ Body{
 }
 header{
     color: white;
-    list-style: none;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    
+    font-size: 2rem;
 }
 #para{
-    justify-content: center;
-    align-items: center;
+   text-align: center;
     color: white;
+    font-size: 2rem;
+    
 }
-/* #info{
-    display: flex;
-    flex-direction: row; 
-    color: white;
+.row{
     justify-content: space-around;
-} */
-/* footer{
+    margin-top: 200px;
+}
+
+footer{
     background-color: grey;
     display: flex;
     flex-direction: row;
     height: 100px;
-} */
-#A{
-    /* background-color: grey; */
+    margin-top: 180px;
+    justify-content: space-around;
+    color:black;
+    font-size: 1.5rem;
+}
+.AA{
+    color: white;
+    font-size: 1.5rem;
+    background-color: grey;
+    box-sizing: border-box;
+    border:honeydew solid;
+    padding-left: 30px;
+    padding-right: 50px;
+    padding-top: 20px;
+
+}
+.B{
+    color: white;
+    font-size: 1.5rem;
+    background-color: grey;
+    border:honeydew solid;
+    padding-left: 60px;
+    padding-right: 50px;
+    padding-top: 40px;
+
+
+}
+#num{
     color: white;
 }
-#B{
-    /* background-color: grey; */
-    color: white;
+.C{
+    border:honeydew solid;
+
+}
+.fb{
+    margin-top: 10px;
 }
