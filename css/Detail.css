@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+.logo{
+    margin-top: 100px;
+    margin-left: 40%;
+}
+.para{
+    color: white;
+    text-align: center;
+}
+.tout{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 200px;
+    margin-bottom: 500px;
+    border: white solid;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.button{
+    background-color: grey;
+    color: rgb(245, 155, 82);
+    font-size: 1.5rem;
+}

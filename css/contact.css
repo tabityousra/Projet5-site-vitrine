@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+.logo{
+    margin-top: 100px;
+    margin-left: 40%;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.form{
+    border: white solid;
+    background-color: gray;
+    width:20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#msg{
+    color:grey;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    padding-right: 40px;
+    margin-top: 10px;
+    margin-bottom:10px ;
+    margin-left: 50px;
+}
+#email{
+    color:grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    margin-top: 10px;
+    margin-bottom:10px ;
+    margin-left: 50px;
+}
+#nom{
+    color:grey;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 40px;
+    margin-top: 10px;
+    margin-bottom:10px ;
+    margin-left: 50px;
+}
+#button{
+    color: black;
+    background-color: chocolate;
+    margin-left: 80px;
+}
